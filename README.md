@@ -1,6 +1,6 @@
 # Zip-Cracker
 A simple python program that allows you to find the password of a zip file with the dictionnary attack
-
+A password list is included
 **Usage**
 
 -> launch the `start.bat` file 
