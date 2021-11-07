@@ -15,4 +15,4 @@ cd <path of folder>
 python C-ZIP.py
 ```
 
-*By* 𝙆𝙪𝙧𝙨𝙆#3945
+*By* KursK#1826
